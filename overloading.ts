@@ -4,7 +4,7 @@
 
 
 class Calculator{
-
+//kunal mahant
 constructor();//if we don't pass any parameters in constructor it is called default constructor.
 constructor(a:Number, b:Number)//parameterized constructor
 
